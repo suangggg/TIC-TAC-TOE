@@ -2,6 +2,6 @@
 
 <div align="center">
   <p align="center">
-    <img align="center" src="avatar.png" alt="logo" width="200">
+    <img align="center" src="avatar.jpg" alt="logo" width="200">
   </p>
 </div>
